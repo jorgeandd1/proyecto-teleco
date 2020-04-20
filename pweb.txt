@@ -1,0 +1,44 @@
+<html>
+<head>
+<title> La música </title>
+</head>
+
+<body bgcolor="#d9dba9" text="black">
+<center><h1><font color="red" face="Comic Sans MS"> LA MÚSICA </font></h1></center>
+
+<center><table border="1" width="42%" bgcolor="#edc668">
+<tr><td>
+<a href="def.html">
+<center><img src="lol.png"></center></a></td>
+<td><a href="cat.html">
+<center><img src="pen.png"></center></a></td>
+<td><a href="hix.html">
+<center><img src="his.png"></center></a></td></tr></table></center>
+
+
+<center><table border="0" width="85%" bgcolor="#edc668">
+<tr>
+<td colspan="2"><font color="black" face="Comic Sans MS">El concepto de música ha ido evolucionando desde su origen en la Antigua Grecia, en que se reunía sin distinción a la poesía, la música y la danza como arte unitario. Desde hace varias décadas se ha vuelto más compleja la definición de qué es y qué no es la música, ya que destacados compositores, en el marco de diversas experiencias artísticas fronterizas, han realizado obras que, si bien podrían considerarse musicales, expanden los límites de la definición de este arte.
+</font></td>
+</tr>
+<tr>
+<td><font color="black" face="Comic Sans MS">La música, como toda manifestación artística, es un producto cultural con múltiples finalidades, entre otras, la de suscitar una experiencia estética en el oyente, la de expresar sentimientos, emociones, circunstancias, pensamientos o ideas, y cada vez más, cumplir una importante función terapéutica a través de la musicoterapia.
+</font></td>
+<td><font color="black" face="Comic Sans MS">La música además, cumple una función de vital importancia en el desarrollo cognitivo del ser humano. Colabora con el pensamiento lógico matemático, la adquisición del lenguaje, el desarrollo psicomotriz, las relaciones interpersonales , el aprendizaje de lenguas no nativas y a potenciar la inteligencia emocional entre otros.
+</font></td>
+</tr>
+<tr>
+<td colspan="2"><center><img src="loxo.jpg"></center>
+</td>
+</tr>
+</table>
+</center>
+
+<center><table border="0" width="85%" bgcolor="#d9dba9">
+<tr>
+<td><center><img src="hola.png"></center></td>
+<td><center><img src="jj.png"></center></td>
+</tr></table></center>
+
+</body>
+</html>
